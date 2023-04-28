@@ -13,6 +13,18 @@
  # Entrega 1
  ## Vanesa Angulo - Francisco Cabrera
  
+ Objetivo: Implementar patrones en los leds,con la condicion que al de apretar botones estos cambien y el potenciador regule la intendidad de estos.
+ 
  - Materiales
- ()Cables, 1 Protobot, 9 resistencias 2k, 6 leds, 1 Arduino, 1 Potenciador?, 2 botones
+ 15 Cables, 1 Protobot, 7 resistencias 2k, 6 leds, 1 Arduino, 1 Potenciador, 1 boton
  ![image](https://user-images.githubusercontent.com/128185941/235242841-5b873ea8-233b-453a-878a-46333a01f664.png)
+ 
+ 
+ - Circuito CONEXIONES
+  ![image](https://user-images.githubusercontent.com/128185941/235252950-6826c328-45e5-4356-9464-96af6180abd5.png)
+ 
+ 
+ -Circuito 1 LEDS
+  ![image](https://user-images.githubusercontent.com/128185941/235253222-fbef52ba-b672-40a0-866e-6887cc68ec7f.png)
+
+
