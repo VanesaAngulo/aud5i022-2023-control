@@ -24,10 +24,10 @@
   ![image](https://user-images.githubusercontent.com/128185941/235257312-8134a4fd-2029-4c86-85a4-fbafc3f6f227.png)
  
  
- -Circuito 1 LEDS
+ - Circuito 1 LEDS
   ![image](https://user-images.githubusercontent.com/128185941/235253222-fbef52ba-b672-40a0-866e-6887cc68ec7f.png)
   
-  -Codigo y función
+  - Codigo y función
   
   
 // estas son las variables
