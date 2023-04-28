@@ -10,7 +10,7 @@
 - imágenes
 - conclusiones
 
- #Entrega 1
+ # Entrega 1
  ## Vanesa Angulo - Francisco Cabrera
  
  - Materiales
