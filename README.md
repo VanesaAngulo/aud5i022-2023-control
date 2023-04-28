@@ -138,7 +138,7 @@ void loop() {
   
    Función se encuentra en el archivo adjunto "circuito"
   
-  #Conclusión
+  # Conclusión
   Pudimos aplicar los conocimeintos aprendidos en clases en la realizacion del control, maxificandolo a una mayor cantidad de leds y aplicanco no solo una funcion de encendido y apagado sino patrones de movimiento. El potenciador por temas de tiempo no pudimos implementarlo en el codigo, pero esta incluido en el circuito.
   
 
